@@ -111,9 +111,9 @@ Este projeto aplica uma abordagem estratégica de UX, conectando comportamento d
 
 ---
 
-## 🌐 Portfólio
+## 🌐 case Study Brewly aqui 
 
-🔗 https://portfoliobecalira.vercel.app/
+🔗 https://case-study-brewly.vercel.app/
 
 ---
 
